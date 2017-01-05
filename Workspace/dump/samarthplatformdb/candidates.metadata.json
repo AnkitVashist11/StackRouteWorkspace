@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"samarthplatformdb.candidates"},{"v":1,"unique":true,"key":{"candidateid":1},"name":"candidateid_1","ns":"samarthplatformdb.candidates","background":true}]}

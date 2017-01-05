@@ -1,0 +1,26 @@
+header{
+	height:15%;
+	background-color: red;
+}
+nav{
+	height:15%;
+	background-color: blue;
+
+}
+article{
+	height:40%;
+	background-color: green;
+
+}
+footer{
+	height:30%;
+	background-color: grey;
+	overflow: 
+
+}
+aside{
+	width: 800px;
+	height:600px;
+	background-color: orange;
+	margin:auto;
+}

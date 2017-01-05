@@ -1,0 +1,24 @@
+{
+  "name": "test",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Ankit Vashist <ankitvashist11@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "material": "^0.1.1",
+    "svg-assets-cache.js": "svg-assets-cache#*",
+    "angular-ui-router": "^0.3.2"
+  }
+}

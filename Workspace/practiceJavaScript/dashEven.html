@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Putting (-) between two even nos.</title>
+</head>
+<body> 
+
+<script type="text/javascript">
+	var number=window.prompt();
+	var str=number.toString();
+	var value=[str[0]];
+
+	for(var i=1; i<str.length; i++)  
+      {  
+       if((str[i-1]%2 === 0)&&(str[i]%2 === 0))  
+         {  
+          value.push('-', str[i]);  
+         }  
+      else  
+         {  
+         value.push(str[i]);  
+         }  
+       }  
+  document.write(value.join(''));
+  
+</script>
+
+</body>
+</html>

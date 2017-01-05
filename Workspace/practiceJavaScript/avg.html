@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>javascript</title>
+		
+	</head>
+	<body>
+		<script>
+		function person(name,mark){
+			this.name=name;
+			this.mark=mark;
+		}
+		var person1=new person("David",80);
+		var person2=new person("Vinoth",77);
+		var person3=new person("Divya",88);
+		var person4=new person("Ishitha",95);
+		var person5=new person("Thomas",68);
+		var avg=(person1.mark+person2.mark+person3.mark+person4.mark+person5.mark)/5;
+		document.write("Average is :"+avg+"<br>");
+		document.write("Grade is :");
+		if(avg<60)
+		{
+			document.write("F");
+		}
+		if(avg>60&&avg<70)
+		{
+			document.write("D");
+		}
+		if(avg>70&&avg<80)
+		{
+			document.write("C");
+		}
+		if(avg>80&&avg<90)
+		{
+			document.write("B");
+		}
+		if(avg>90&&avg<100)
+		{
+			document.write("A");
+		}
+
+
+		
+
+		</script>

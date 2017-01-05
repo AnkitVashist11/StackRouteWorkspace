@@ -1,0 +1,45 @@
+body{
+	width: 600px;
+	margin:20px auto;
+	font-family: sans-serif;
+}
+h2{
+	font-size:39px;
+	line-height: 43px;
+}
+a{
+	color:grey;
+}
+div a:hover{
+	text-decoration: underline;
+	color: black;
+	font-weight: bold;
+
+}
+
+Article img {
+	width: 200px;
+	height:200px;
+	float:left;
+	margin-right: 30px;
+}
+.meta a{
+	font-style: italic;
+	font-size: 14px;
+}
+.meta li:after{
+  content:'\\'
+  padding:0 2px;
+  color:#999;
+}
+.meta li:last-child:after{
+	content:'';
+}
+.meta li{
+    display:inline;
+}
+
+.preview{
+	float:right;
+	width:370px;
+}

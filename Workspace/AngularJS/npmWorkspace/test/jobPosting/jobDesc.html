@@ -1,0 +1,45 @@
+
+    	<p class="md-title">in</p>
+     
+          <md-input-container class="md-icon-float md-block">
+          <input md-colors="{color:'primary'}" class="md-headline" ng-model="user.jobLocation" type="text" placeholder="Job Location" ng-required="true">
+        </md-input-container>
+        <legend>Job Details</legend>
+
+        <md-input-container class="md-block">
+          <textarea ng-model="user.biography" md-maxlength="150" rows="5" md-select-on-focus placeholder="Job Description"></textarea>
+        </md-input-container>
+ 
+        <md-input-container class="md-icon-float md-block" >
+          <input ng-model="user.email" type="text" md-maxlength="30" placeholder="Salary/anum" ng-required="true">
+        </md-input-container> 
+
+        <md-input-container class="md-icon-float md-block" >
+          <input ng-model="user.email" type="text" md-maxlength="30" placeholder="Profession" ng-required="true">
+        </md-input-container> 
+        </fieldset> 
+        <fieldset>
+        <legend>Eligibility Criteria</legend>
+          <md-input-container class="md-block" md-float flex-gt-sm="">
+          <md-select placeholder="Education" ng-model="user.state" ng-required="true">
+              <md-option ng-repeat="state in states" value="{{state.abbrev}}">
+                {{state.abbrev}}
+              </md-option>
+          </md-select>
+        </md-input-container>
+        <md-input-container class="md-icon-float md-block" >
+          <input ng-model="user.email" type="text" md-maxlength="30" placeholder="Experience/yrs" ng-required="true">
+        </md-input-container>
+        <md-radio-group ng-model="data.group1" layout="row" ng-required="true" layout="row" layout-padding="" layout-align="center">
+          <md-radio-button value="Male" class="md-primary">Male</md-radio-button>
+          <md-radio-button value="Female">Female</md-radio-button>
+          <md-radio-button value="Both" class="md-primary md-hue-2">Both</md-radio-button>
+         </md-radio-group><br>   
+        <section layout="row" layout-padding="" layout-align="center">
+          <!-- <md-button class="md-raised md-primary" ng-click="showConfirm($event)"ng-disabled="myForm.$invalid">&nbspADD JOB&nbsp</md-button> -->
+         <!--  <md-button class="md-raised md-primary" ng-click="showConfirm($event)"ng-disabled="myForm.$invalid">&nbspADD MORE&nbsp</md-button> -->
+
+        </section>
+      </fieldset>
+
+ </form>

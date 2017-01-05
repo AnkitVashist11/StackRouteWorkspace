@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>javascript</title>
+		
+	</head>
+	<body>
+		<script>
+		var arr=[];
+		var ar=[];
+		var len=prompt("Enter the size");
+		var arr=[];
+		for(var i=0;i<len;i++)
+		{
+			arr[i]=prompt("Enter the names");
+		}
+		for(var i=0;i<len;i++)
+		{
+			for(var j=i+1;j<len;)
+			{
+				if(arr[j]==arr[i])
+				{
+					for(var k=j;k<len;k++)
+					{
+						arr[k]=arr[k+1];
+					}
+					len--;
+				}
+				else
+					j++;
+			}
+		}
+		for(var i=0;i<len;i++)
+		{
+			document.write(arr[i]+"<br>");
+		}
+
+		</script>
+	</body>
+	</html>

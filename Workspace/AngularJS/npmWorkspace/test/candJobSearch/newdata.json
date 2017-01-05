@@ -1,0 +1,408 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - ankit",
+        "totalResults": "4650000",
+        "searchTerms": "ankit",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "014698918365205381524:lujawktgwkk"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - ankit",
+        "totalResults": "4650000",
+        "searchTerms": "ankit",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "014698918365205381524:lujawktgwkk"
+      }
+    ]
+  },
+  "context": {
+    "title": "Google"
+  },
+  "searchInformation": {
+    "searchTime": 0.370202,
+    "formattedSearchTime": "0.37",
+    "totalResults": "4650000",
+    "formattedTotalResults": "4,650,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Ankit Metal & Power Ltd: NSE:ANKITMETAL quotes & news - Google ...",
+      "htmlTitle": "<b>Ankit</b> Metal &amp; Power Ltd: NSE:ANKITMETAL quotes &amp; news - Google ...",
+      "link": "http://www.google.com/finance?cid=396911592447988",
+      "displayLink": "www.google.com",
+      "snippet": "Get detailed financial information on Ankit Metal & Power Ltd (NSE:ANKITMETAL\n) including real-time stock quotes, historical charts & financial news, all for free!",
+      "htmlSnippet": "Get detailed financial information on <b>Ankit</b> Metal &amp; Power Ltd (NSE:ANKITMETAL<br>\n) including real-time stock quotes, historical charts &amp; financial news, all for free!",
+      "cacheId": "Df_tAF0uPh8J",
+      "formattedUrl": "www.google.com/finance?cid=396911592447988",
+      "htmlFormattedUrl": "www.google.com/finance?cid=396911592447988",
+      "pagemap": {
+        "financialquote": [
+          {
+            "name": "Ankit Metal & Power Ltd",
+            "url": "https://www.google.com/finance?cid=396911592447988",
+            "imageurl": "https://www.google.com/finance/chart?cht=g&q=NSE:ANKITMETAL&tkr=1&p=1d&enddatetime=2016-11-15T15:30:00Z",
+            "tickersymbol": "ANKITMETAL",
+            "exchange": "NSE",
+            "exchangetimezone": "Asia/Kolkata",
+            "price": "1.90",
+            "pricechange": "-0.15",
+            "pricechangepercent": "-7.32",
+            "quotetime": "2016-11-15T15:30:00Z",
+            "datasource": "NSE real-time data",
+            "datasourcedisclaimerurl": "//www.google.com/help/stock_disclaimer.html#realtime",
+            "pricecurrency": "INR"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Ankit Metal & Power Limited: NSE:ANKITMETAL market news ...",
+      "htmlTitle": "<b>Ankit</b> Metal &amp; Power Limited: NSE:ANKITMETAL market news ...",
+      "link": "http://www.google.com/finance/company_news?q=NSE:ANKITMETAL&ei=mRjRUajOJ-TD0AGCDQ",
+      "displayLink": "www.google.com",
+      "snippet": "Lenders to Kolkata-based steel maker Ankit Metal and Power Ltd have decided \nto convert the company's outstanding debt into majority equity and take control of\n ...",
+      "htmlSnippet": "Lenders to Kolkata-based steel maker <b>Ankit</b> Metal and Power Ltd have decided <br>\nto convert the company&#39;s outstanding debt into majority equity and take control of<br>\n&nbsp;...",
+      "cacheId": "M_pn3OryqJYJ",
+      "formattedUrl": "www.google.com/finance/company_news?q...ANKITMETAL...",
+      "htmlFormattedUrl": "www.google.com/finance/company_news?q...<b>ANKIT</b>METAL...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "169",
+            "height": "92",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnxAIPDYdwkyWpYikukOu3mW_JaeCTguqDv3kcjwUR24yZANWj-_7COYw"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.google.com/finance/chart?tlf=12&q=NSE:ANKITMETAL&ebp=1&ei=vJD0VomvJ8G62Abd_6iQAw"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Aanchal and Ankit",
+      "htmlTitle": "Aanchal and <b>Ankit</b>",
+      "link": "https://www.google.com/mymaps/viewer?mid=1egz2aMlUG92L9gfNZpCtTqapqnA&hl=en_US",
+      "displayLink": "www.google.com",
+      "snippet": "Apple Trees planted on the occasion of the wedding of Aanchal and Ankit, Surya \nSaraff gifted 2 Trees. - Planted by the SGI and the Ghanshyam Smriti in support ...",
+      "htmlSnippet": "Apple Trees planted on the occasion of the wedding of Aanchal and <b>Ankit</b>, Surya <br>\nSaraff gifted 2 Trees. - Planted by the SGI and the Ghanshyam Smriti in support&nbsp;...",
+      "cacheId": "X-Vt89l6R7IJ",
+      "formattedUrl": "https://www.google.com/mymaps/viewer?mid...hl=en_US",
+      "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid...hl=en_US",
+      "pagemap": {
+        "website": [
+          {
+            "name": "Aanchal and Ankit",
+            "description": "Apple Trees planted on the occasion of the wedding of Aanchal and Ankit, Surya Saraff gifted 2 Trees. - Planted by the SGI and the Ghanshyam Smriti in support of the Mahila Mangal Dal, Suneel...",
+            "url": "https://www.google.com/maps/d/viewer?mid=1egz2aMlUG92L9gfNZpCtTqapqnA&hl=en_US",
+            "image": "https://www.google.com/maps/d/thumbnail?mid=1egz2aMlUG92L9gfNZpCtTqapqnA&hl=en_US"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width",
+            "og:type": "website",
+            "og:title": "Aanchal and Ankit",
+            "og:description": "Apple Trees planted on the occasion of the wedding of Aanchal and Ankit, Surya Saraff gifted 2 Trees. - Planted  by the SGI and the Ghanshyam Smriti in support of the Mahila Mangal Dal, Suneel Village, Chamoli District, Uttarakhand, India",
+            "og:url": "https://www.google.com/maps/d/viewer?mid=1egz2aMlUG92L9gfNZpCtTqapqnA&hl=en_US",
+            "og:image": "https://www.google.com/maps/d/thumbnail?mid=1egz2aMlUG92L9gfNZpCtTqapqnA&hl=en_US",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Aanchal and Ankit",
+            "twitter:description": "Apple Trees planted on the occasion of the wedding of Aanchal and Ankit, Surya Saraff gifted 2 Trees. - Planted  by the SGI and the Ghanshyam Smriti in support of the Mahila Mangal Dal, Suneel Village, Chamoli District, Uttarakhand, India",
+            "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=1egz2aMlUG92L9gfNZpCtTqapqnA&hl=en_US"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.google.com/maps/d/thumbnail?mid=1egz2aMlUG92L9gfNZpCtTqapqnA&hl=en_US"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Ankit Singh The Champ",
+      "htmlTitle": "<b>Ankit</b> Singh The Champ",
+      "link": "https://www.google.com/mymaps/viewer?mid=zrpCK7556I4g.k5HFIGsEnkAA&hl=en_US",
+      "displayLink": "www.google.com",
+      "snippet": "Ward No-17, Rajendra Nagar, Pukhrayan, Kanpur Dehat, Uttar Pradesh (209111\n)",
+      "htmlSnippet": "Ward No-17, Rajendra Nagar, Pukhrayan, Kanpur Dehat, Uttar Pradesh (209111<br>\n)",
+      "cacheId": "7kMKdmSAhHgJ",
+      "formattedUrl": "https://www.google.com/mymaps/viewer?mid=zrpCK7556I4g...",
+      "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid=zrpCK7556I4g...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "204",
+            "height": "204",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaT3Uhm5yhPOX-4HSmLIc0zq4wjvQpb1zTpmeC0kRIxp23N67CQwfQFAHl"
+          }
+        ],
+        "website": [
+          {
+            "name": "Ankit Singh The Champ",
+            "description": "Ward No-17, Rajendra Nagar, Pukhrayan, Kanpur Dehat, Uttar Pradesh (209111)",
+            "url": "https://www.google.com/maps/d/viewer?mid=1jukPiVbZQ4Cvkq8ejDkzCq6mcgI&hl=en_US",
+            "image": "https://www.google.com/maps/d/thumbnail?mid=1jukPiVbZQ4Cvkq8ejDkzCq6mcgI&hl=en_US"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width",
+            "og:type": "website",
+            "og:title": "Ankit Singh The Champ",
+            "og:description": "Ward No-17, Rajendra Nagar, Pukhrayan, Kanpur Dehat, Uttar Pradesh (209111)",
+            "og:url": "https://www.google.com/maps/d/viewer?mid=1jukPiVbZQ4Cvkq8ejDkzCq6mcgI&hl=en_US",
+            "og:image": "https://www.google.com/maps/d/thumbnail?mid=1jukPiVbZQ4Cvkq8ejDkzCq6mcgI&hl=en_US",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Ankit Singh The Champ",
+            "twitter:description": "Ward No-17, Rajendra Nagar, Pukhrayan, Kanpur Dehat, Uttar Pradesh (209111)",
+            "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=1jukPiVbZQ4Cvkq8ejDkzCq6mcgI&hl=en_US"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i3!2i0!3i3!4i256!2m3!1e0!2sm!3i367040318!3m9!2sen!3sUS!5e18!12m1!1e47!12m3!1e37!2m1!1ssmartmaps!4e0&token=20887"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Ankit Metal & Power Ltd: BOM:532870 market news - Google Finance",
+      "htmlTitle": "<b>Ankit</b> Metal &amp; Power Ltd: BOM:532870 market news - Google Finance",
+      "link": "http://www.google.com/finance/company_news?q=BOM:532870",
+      "displayLink": "www.google.com",
+      "snippet": "Lenders to Kolkata-based steel maker Ankit Metal and Power Ltd have decided \nto convert the company's outstanding debt into majority equity and take control of\n ...",
+      "htmlSnippet": "Lenders to Kolkata-based steel maker <b>Ankit</b> Metal and Power Ltd have decided <br>\nto convert the company&#39;s outstanding debt into majority equity and take control of<br>\n&nbsp;...",
+      "cacheId": "1XjXe8DEXZUJ",
+      "formattedUrl": "www.google.com/finance/company_news?q=BOM:532870",
+      "htmlFormattedUrl": "www.google.com/finance/company_news?q=BOM:532870"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Ankit Residency",
+      "htmlTitle": "<b>Ankit</b> Residency",
+      "link": "https://www.google.com/mymaps/viewer?mid=166iLMu1Fu5nZRiglDUkZKIepemI&hl=en",
+      "displayLink": "www.google.com",
+      "snippet": "Ankit Residency, Jabalpur, Madhya Pradesh, (M.P.) India.",
+      "htmlSnippet": "<b>Ankit</b> Residency, Jabalpur, Madhya Pradesh, (M.P.) India.",
+      "cacheId": "EdOUv12TvZgJ",
+      "formattedUrl": "https://www.google.com/mymaps/viewer?mid...hl=en",
+      "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid...hl=en",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "221",
+            "height": "228",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjH_TU7EFnhgXe7sALfNLBaGb17-Lf-Y03ey0ep58yApSbyaveNIGXHIXp"
+          }
+        ],
+        "website": [
+          {
+            "name": "Ankit Residency",
+            "description": "Ankit Residency, Jabalpur, Madhya Pradesh, (M.P.) India",
+            "url": "https://www.google.com/maps/d/viewer?mid=166iLMu1Fu5nZRiglDUkZKIepemI&hl=en",
+            "image": "https://www.google.com/maps/d/thumbnail?mid=166iLMu1Fu5nZRiglDUkZKIepemI&hl=en"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width",
+            "og:type": "website",
+            "og:title": "Ankit Residency",
+            "og:description": "Ankit Residency, Jabalpur, Madhya Pradesh, (M.P.) India",
+            "og:url": "https://www.google.com/maps/d/viewer?mid=166iLMu1Fu5nZRiglDUkZKIepemI&hl=en",
+            "og:image": "https://www.google.com/maps/d/thumbnail?mid=166iLMu1Fu5nZRiglDUkZKIepemI&hl=en",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Ankit Residency",
+            "twitter:description": "Ankit Residency, Jabalpur, Madhya Pradesh, (M.P.) India",
+            "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=166iLMu1Fu5nZRiglDUkZKIepemI&hl=en"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.google.com/maps/d/thumbnail?mid=166iLMu1Fu5nZRiglDUkZKIepemI&hl=en"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Ankit Patel",
+      "htmlTitle": "<b>Ankit</b> Patel",
+      "link": "https://www.google.com/mymaps/viewer?mid=1tbCQiBcUzDgCpcJrlHIyHz8GaYg&hl=en_US",
+      "displayLink": "www.google.com",
+      "snippet": "Ankit Patel. Collapse map legend. Map details. Copy map. Print map ... Ankit \nPatel. Ankit Patel. Ankit Patel. Placemark 4. Use two fingers to move the map.",
+      "htmlSnippet": "<b>Ankit</b> Patel. Collapse map legend. Map details. Copy map. Print map ... <b>Ankit</b> <br>\nPatel. <b>Ankit</b> Patel. <b>Ankit</b> Patel. Placemark 4. Use two fingers to move the map.",
+      "cacheId": "frKaQa4o2doJ",
+      "formattedUrl": "https://www.google.com/mymaps/viewer?mid...hl=en_US",
+      "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid...hl=en_US",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "221",
+            "height": "228",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBSe3QpTy40hPaak-Y7rqhiotrVrdNM2x71q2JnOzEnEXIO5kdwEmxUDQ"
+          }
+        ],
+        "website": [
+          {
+            "name": "Ankit Patel",
+            "description": "A/501 Vasukanan Tawor,Ghatlodia,Ahmedabad",
+            "url": "https://www.google.com/maps/d/viewer?mid=1tbCQiBcUzDgCpcJrlHIyHz8GaYg&hl=en_US",
+            "image": "https://www.google.com/maps/d/thumbnail?mid=1tbCQiBcUzDgCpcJrlHIyHz8GaYg&hl=en_US"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width",
+            "og:type": "website",
+            "og:title": "Ankit Patel",
+            "og:description": "A/501 Vasukanan Tawor,Ghatlodia,Ahmedabad",
+            "og:url": "https://www.google.com/maps/d/viewer?mid=1tbCQiBcUzDgCpcJrlHIyHz8GaYg&hl=en_US",
+            "og:image": "https://www.google.com/maps/d/thumbnail?mid=1tbCQiBcUzDgCpcJrlHIyHz8GaYg&hl=en_US",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Ankit Patel",
+            "twitter:description": "A/501 Vasukanan Tawor,Ghatlodia,Ahmedabad",
+            "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=1tbCQiBcUzDgCpcJrlHIyHz8GaYg&hl=en_US"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.google.com/maps/d/thumbnail?mid=1k0FISXZMdG6sV_iDT00_UdRzqvc&hl=en_US"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Ankit packers and movers",
+      "htmlTitle": "<b>Ankit</b> packers and movers",
+      "link": "https://www.google.com/mymaps/viewer?mid=zJnPf8MA16js.kDVSmR8tpweU&hl=en_US",
+      "displayLink": "www.google.com",
+      "snippet": "Plot no.5,6 Sai Chandra Enclave Military Dairy Farm Road Old Bowenpally \nSecunderabad-500011 040-40045531,9652772022,9346020022,9346010022 ...",
+      "htmlSnippet": "Plot no.5,6 Sai Chandra Enclave Military Dairy Farm Road Old Bowenpally <br>\nSecunderabad-500011 040-40045531,9652772022,9346020022,9346010022&nbsp;...",
+      "cacheId": "mZQhPk9iLMcJ",
+      "formattedUrl": "https://www.google.com/mymaps/viewer?mid=zJnPf8MA16js...",
+      "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid=zJnPf8MA16js...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "204",
+            "height": "204",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4JfvV7-HMy_n_cdKPfhb9f2IMBFWJ6_UxQZpzhM7-zEAqd13xfd1DFsE"
+          }
+        ],
+        "website": [
+          {
+            "name": "Ankit packers and movers",
+            "description": "Plot no.5,6 Sai Chandra Enclave Military Dairy Farm Road Old Bowenpally Secunderabad-500011 040-40045531,9652772022,9346020022,9346010022 www.ankitpackers.com",
+            "url": "https://www.google.com/maps/d/viewer?mid=1a5orh13xkOxVe9VzAQbkMqGYfBA&hl=en_US",
+            "image": "https://www.google.com/maps/d/thumbnail?mid=1a5orh13xkOxVe9VzAQbkMqGYfBA&hl=en_US"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width",
+            "og:type": "website",
+            "og:title": "Ankit packers and movers",
+            "og:description": "Plot no.5,6 Sai Chandra Enclave Military Dairy Farm Road Old Bowenpally Secunderabad-500011 040-40045531,9652772022,9346020022,9346010022 www.ankitpackers.com",
+            "og:url": "https://www.google.com/maps/d/viewer?mid=1a5orh13xkOxVe9VzAQbkMqGYfBA&hl=en_US",
+            "og:image": "https://www.google.com/maps/d/thumbnail?mid=1a5orh13xkOxVe9VzAQbkMqGYfBA&hl=en_US",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Ankit packers and movers",
+            "twitter:description": "Plot no.5,6 Sai Chandra Enclave Military Dairy Farm Road Old Bowenpally Secunderabad-500011 040-40045531,9652772022,9346020022,9346010022 www.ankitpackers.com",
+            "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=1a5orh13xkOxVe9VzAQbkMqGYfBA&hl=en_US"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://khms1.googleapis.com/kh?v=702&hl=en&&x=367&y=230&z=9"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Ankit Metal & Power Ltd: BOM:532870 market news - Google Finance",
+      "htmlTitle": "<b>Ankit</b> Metal &amp; Power Ltd: BOM:532870 market news - Google Finance",
+      "link": "https://www.google.com/finance/company_news?q=BOM:532870&startdate=2016-6-01&enddate=2016-7-01&ei=dT9pV7HXMYyP2Ab7uoiQAg",
+      "displayLink": "www.google.com",
+      "snippet": "Jun 3, 2016 ... Other firms whose lenders are known to have invoked SDR include Electrosteel \nSteels Ltd, Ankit Metal and Power Ltd, Rohit Ferro-Tech Ltd, ...",
+      "htmlSnippet": "Jun 3, 2016 <b>...</b> Other firms whose lenders are known to have invoked SDR include Electrosteel <br>\nSteels Ltd, <b>Ankit</b> Metal and Power Ltd, Rohit Ferro-Tech Ltd,&nbsp;...",
+      "cacheId": "X4KG83Vrdb8J",
+      "formattedUrl": "https://www.google.com/finance/company_news?q...6...",
+      "htmlFormattedUrl": "https://www.google.com/finance/company_news?q...6..."
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Dr. Ankit Goel's",
+      "htmlTitle": "Dr. <b>Ankit</b> Goel&#39;s",
+      "link": "https://www.google.com/mymaps/viewer?mid=1C6-QmDnRRk9AtUrADkGXIZB9gKo&hl=en_GB",
+      "displayLink": "www.google.com",
+      "snippet": "Dr. Goel's Oral and Maxillofacial Diagnostics is the first dental clinic in the region \nwith a lavish and pleasant environment for dental and oral disease treatment.",
+      "htmlSnippet": "Dr. Goel&#39;s Oral and Maxillofacial Diagnostics is the first dental clinic in the region <br>\nwith a lavish and pleasant environment for dental and oral disease treatment.",
+      "cacheId": "JAYi5JsDGXIJ",
+      "formattedUrl": "https://www.google.com/mymaps/viewer?mid=1C6...hl=en...",
+      "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid=1C6...hl=en...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "221",
+            "height": "228",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSa6W1ZlsU950cui8-75W-yGz1-JnDfGbs1wW-JAyTtsiEk6O1j985333I"
+          }
+        ],
+        "website": [
+          {
+            "name": "Dr. Ankit Goel's",
+            "description": "Dr. Goel’s Oral and Maxillofacial Diagnostics is the first dental clinic in the region with a lavish and pleasant environment for dental and oral disease treatment. The center is centrally...",
+            "url": "https://www.google.com/maps/d/viewer?mid=1C6-QmDnRRk9AtUrADkGXIZB9gKo&hl=en_GB",
+            "image": "https://www.google.com/maps/d/thumbnail?mid=1C6-QmDnRRk9AtUrADkGXIZB9gKo&hl=en_GB"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width",
+            "og:type": "website",
+            "og:title": "Dr. Ankit Goel's",
+            "og:description": "Dr. Goel’s Oral and Maxillofacial Diagnostics is the first dental clinic in the region with a lavish and pleasant environment for dental and oral disease treatment. The center is centrally placed in the heart of Hapur city at railway road and has an easy accessibility.",
+            "og:url": "https://www.google.com/maps/d/viewer?mid=1C6-QmDnRRk9AtUrADkGXIZB9gKo&hl=en_GB",
+            "og:image": "https://www.google.com/maps/d/thumbnail?mid=1C6-QmDnRRk9AtUrADkGXIZB9gKo&hl=en_GB",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Dr. Ankit Goel's",
+            "twitter:description": "Dr. Goel’s Oral and Maxillofacial Diagnostics is the first dental clinic in the region with a lavish and pleasant environment for dental and oral disease treatment. The center is centrally placed in the heart of Hapur city at railway road and has an easy accessibility.",
+            "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=1C6-QmDnRRk9AtUrADkGXIZB9gKo&hl=en_GB"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.google.com/maps/d/thumbnail?mid=1C6-QmDnRRk9AtUrADkGXIZB9gKo&hl=en_GB"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "materialex",
+  "homepage": "https://github.com/amoltiwari-16/html-projects",
+  "authors": [
+    "Amol Tiwari <amoltiwari.16@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-favicon": "^0.3.2",
+    "angular-material-icons": "^0.7.1"
+  }
+}

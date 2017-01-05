@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Movie Search</title>
+
+    <link rel="stylesheet" href="../bower_components/angular-material/angular-material.css"/>
+    <link rel="stylesheet" href="../bower_components/angular-material-icons/angular-material-icons.css"/>
+</head>
+<body ng-app="movieSearching" ng-controller="searchingController" ng-cloak>
+ <md-content class="md-padding">
+    <md-nav-bar md-selected-nav-item="currentNavItem" nav-bar-aria-label="navigation links">
+       <a ui-sref="home">Home </a></br>
+       <a ui-sref="about">about </a></br>
+       <a ui-sref="search">search </a>
+     
+
+    </md-nav-bar>
+     <div ui-view="content"> </div>
+ </body>
+
+<script src="../bower_components/angular/angular.js"></script>
+<script src="../bower_components/angular-animate/angular-animate.min.js"></script>
+<!-- <script src="../bower_components/angular-route/angular-route.min.js"></script>
+
+ --><script src="../bower_components/angular-aria/angular-aria.min.js"></script>
+ <script src="../bower_components/angular-ui-router/release/angular-ui-router.js"></script>
+<script src="../bower_components/angular-messages/angular-messages.min.js"></script>
+<script src="../bower_components/angular-material/angular-material.js"></script>
+<!-- <script src="src/app.js"></script>
+ -->
+ <script src="./searchController.js"></script>
+
+</html>

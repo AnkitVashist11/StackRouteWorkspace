@@ -1,0 +1,25 @@
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Seach Box-version 1</title>
+  <script src='https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
+  <script src="controller.js"></script>
+</head>
+<body ng-app="mainApp">
+<div ng-controller="contrl">
+   <ul>
+    <h2> Displaying results For :""</h2>
+     <li ng-repeat="item in Search |filter:searchBox">
+        {{"title:" +item.title + "role:" + item.role}}
+     </li>
+
+   </ul>
+   </div>
+
+   <div id="searchBoxes">
+     <input type="text" ng-model="globalSearch.$">
+
+   </div>
+
+</body>
+</html>

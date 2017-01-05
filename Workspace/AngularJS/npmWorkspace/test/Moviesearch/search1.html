@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>search movie</title>
+</head>
+<body ng-app="movieSearching" ng-controller="searchingController">
+        <!-- Starting of the heading-->
+      <md-toolbar>  
+         <div class="md-toolbar-tools">
+            <md-button class="md-icon-button" aria-label="Side Panel">
+                <md-tooltip>Side Panel</md-tooltip>
+                <md-icon class="material-icons">&#xE5D2;</md-icon>
+            </md-button>
+            <h2>
+                <span>MoviesSearching</span>
+            </h2>
+        </div>
+    </md-toolbar>
+    <!--end of the heading of the page-->
+    <div  layout="row" layout-align="center center">
+    <md-content md-whiteframe="6" flex="50">
+        <md-input-container >
+                <label >Search</label>
+                <input type="text" ng-model="keyword" name="search">
+        </md-input-container>
+        <md-button class="md-icon-button" aria-label="search" ng-click="searchKeyword()">
+            <md-icon>search</md-icon>
+        </md-button>
+    </md-content>
+    </div>
+<div layout="row" >
+    <div flex >
+    <ol>
+        <li ng-repeat="title in data['Search']">
+        <a ui-sref="movie({title:Title})"><h3>searching Results: ['Title']<h3>
+        {{title['Title']}}</a></li>
+    </ol>
+    </div>
+    <div flex>
+     <md-card ng-show={{value}} flex="50">
+
+      </md-card>
+     <md-card>
+       <md-card-title>
+         <md-card-title-text>
+           <h3> Searching Result for: "{{keyword}}"</h3>
+           <span class="md-headline">{{movieTitle}}</span>
+           <span class="md-subhead">{{movieYear}}</span>
+         </md-card-title-text>
+       </md-card-title>
+       <md-card-content layout="row" layout-align="space-between">
+         <div class="md-media-xl card-media">
+         <div class="md-media-lg card-media" layout-margin layout-wrap layout-align="center center"><img height="200" width="300" src={{moviePoster}}>
+         </div>
+         </div>
+
+         <!-- <md-card-actions layout="column">
+           <md-button class="md-icon-button" aria-label="Favorite">
+             <md-icon md-svg-icon="img/icons/favorite.svg"></md-icon>
+           </md-button>
+           <md-button class="md-icon-button" aria-label="Settings">
+             <md-icon md-svg-icon="img/icons/menu.svg"></md-icon>
+           </md-button>
+           <md-button class="md-icon-button" aria-label="Share">
+             <md-icon md-svg-icon="img/icons/share-arrow.svg"></md-icon>
+           </md-button>
+         </md-card-actions> -->
+       </md-card-content>
+       <md-card-actions layout="row" layout-align="end center">
+          <md-button>Action 1</md-button>
+          <md-button>Action 2</md-button>
+        </md-card-actions>
+     </md-card>
+     </div>
+
+ </div>
+</body>
+</html>

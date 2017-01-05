@@ -1,0 +1,66 @@
+<html>
+    <head>
+        <title>Coordinator/job/search</title>
+        <link rel="stylesheet" type="text/css" href="../bower_components/angular-material/angular-material.css">
+        <link rel="stylesheet" type="text/css" href="../bower_components/angular-material-icons/angular-material-icons.css">
+        
+    </head>
+    <body ng-app="instantsearch"  layout="column" ng-cloak flex>
+    <md-toolbar>
+    <h1><center><strong>Samarth Placement</strong></center> </h1>
+
+    </md-toolbar>
+    <div >
+     <!--   components -->
+     <job-search layout="column" flex-gt-xs="60"></job-search>
+     <!-- <div ui-view="content"> </div> -->
+     <!-- 
+     <job-search-result layout="column" flex-gt-xs="60"></job-search-result> -->
+    </div>
+
+
+        <!-- <md-button class="md-icon-button" aria-label="Search" ng-click="showSearch = !showSearch" flex="10">
+               <md-icon>search</md-icon>
+             </md-button>
+        </div>
+            <ul class="data-ctrl">
+                <li ng-repeat="i in items | searchFor:searc String">
+                    <p>{{i.title}}
+                </li>
+            </ul>
+          </md-input-container>
+         </div>
+
+         <!- - <div ng- controller="instantSearchCtrl" layout="row" flex=50 >
+         <md-input-container layout-align="center center">
+               <h3 class="headName"><i>Searching Jobs</i></h3>
+            <div class="bar">
+                <input type="text" class="Search" ng-model="searchString" placeholder="Search Jobs" />
+            </div>
+            <ul class="data-ctrl">
+                <li ng-repeat="i in items | searchFor:searchString">
+                    <p>{{i.title}}
+                </li>
+            </ul>
+          </md-input-container>  
+         </div> -->
+        
+        
+       
+        
+
+       <script src="../bower_components/angular/angular.js"></script>
+       <script src="../bower_components/angular-animate/angular-animate.js"></script>
+        <script src="../bower_components/angular-ui-router/release/angular-ui-router.js"></script>
+
+       <script src="../bower_components/angular-aria/angular-aria.js"></script>
+       <script src="../bower_components/svg-assets-cache.js/svg-assets-cache.js"></script>
+
+       <script src ="../bower_components/angular-material/angular-material.js"></script> 
+    </body>
+<!--     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js"></script>
+ -->
+    <script src="appjs/jobSearch.js"></script>
+    <script src="appjs/jobSearchResult.js"></script>
+    <script src="appjs/jobSearchController.js"></script>
+</html>
